@@ -1,0 +1,107 @@
+# ==========================
+
+# Python
+
+# ==========================
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# ==========================
+
+# IDE & Editors
+
+# ==========================
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ==========================
+
+# Operating System Files
+
+# ==========================
+
+.DS_Store
+Thumbs.db
+
+# ==========================
+
+# Logs
+
+# ==========================
+
+*.log
+
+# ==========================
+
+# Database Files
+
+# ==========================
+
+*.db
+*.sqlite
+*.sqlite3
+
+# ==========================
+
+# Power BI
+
+# ==========================
+
+*.pbix.autorecovery
+
+# ==========================
+
+# Temporary Files
+
+# ==========================
+
+temp/
+tmp/
+
+# ==========================
+
+# Large Raw Data Files
+
+# ==========================
+
+Data/Raw_Data/
+
+# Uncomment if dataset is too large
+
+# Data/Cleaned_Data/
+
+# ==========================
+
+# Python Build Files
+
+# ==========================
+
+build/
+dist/
+*.egg-info/
+
+# ==========================
+
+# Cache
+
+# ==========================
+
+.cache/
+.pytest_cache/

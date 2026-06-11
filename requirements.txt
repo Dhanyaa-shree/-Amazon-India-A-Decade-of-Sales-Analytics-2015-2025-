@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+sqlalchemy
+mysql-connector-python
+jupyter
+openpyxl
+powerbiclient
+scipy
